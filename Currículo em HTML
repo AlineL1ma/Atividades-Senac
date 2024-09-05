@@ -5,15 +5,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+
 <body>
     <div style="text-align: center;">
-        <hr>
-        <h1>Aline Karen de Lima</h1>
-        <h2>Analista e Desenvolvedora de Sistemas</h2>
+        <div style="font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif; font-variant: normal"
+        <h2> Aline Lima</h2>
+        <img src
+        <h2>Desenvolvedora de Sistemas</h2>
         <hr>
     </div>
-<div style="text-align: center;">
-    <h2>Sobre:</h2>
+<div style="text-align: center; font-size: small; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
+    <div style="font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;"
+    <h4>Sobre:</h4>
     <p>Formada em Analise e desenvolvimento de Sistemas pela Faculdade do SENAC (2026) e Pós-Graduanda em Engenharia de Software pela<br>
     PUC-Rio (2028), atuo no mercado há mais de quatro anos como Developer de Sistemas e Provedora de Cloud. Nascida e criada em Recife,<br>
     fiz parte de projetos como ProjetAí pelo SENAC, Residências para o Porto Digital e estágio como Developer na empresa NTT Data durante<br>
@@ -30,5 +33,7 @@
     <li>Especialização em CyberSegurança </li>
     <li>Especialização em área de Cloud</li>
 </div>
+</body>
+</html>
 </body>
 </html>
