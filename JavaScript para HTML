@@ -1,0 +1,11 @@
+function mudarNome() {
+    document.title = "Aline Lima";
+
+    var formulario = document.getElementById("formulario");
+    formulario.innerHTML = "<h3>Formulário de Contato com Aline Lima!</h3>";
+
+    var paragrafo = document.createElement("h3");
+    paragrafo.innerHTML = "<br>Fale comigo que eu sou melhor do que Danilo. alinelima@gmail.com";
+    formulario.appendChild(paragrafo);
+
+}
